@@ -1,0 +1,30 @@
+Preguntas Técnicas para Evaluar el Desarrollo del Caso de Uso
+
+1. HTML: ¿Cómo estructurarías la página de inicio de ADECO Consulting utilizando etiquetas semánticas de HTML5?
+
+
+2. CSS: ¿Cómo implementarías un diseño responsivo utilizando media queries para garantizar la correcta visualización en dispositivos móviles y escritorio?
+
+
+3. JavaScript: ¿Cómo harías para que el formulario de contacto valide los datos antes de enviarse?
+
+
+4. Interactividad: ¿Cómo podrías agregar animaciones sutiles en los botones y secciones del sitio web utilizando solo CSS y JavaScript?
+
+
+5. Navegación: ¿Cómo implementarías un menú de navegación que cambie a un menú hamburguesa en dispositivos móviles?
+
+
+6. Blog Dinámico: ¿Cómo podrías hacer que los artículos del blog se carguen dinámicamente utilizando JavaScript?
+
+
+7. Chat en Línea: ¿Cómo implementarías un chat con respuestas automáticas básicas usando JavaScript?
+
+
+8. SEO: ¿Qué estrategias y etiquetas HTML utilizarías para mejorar la visibilidad del sitio en los motores de búsqueda?
+
+
+9. Seguridad Web: ¿Qué medidas tomarías para evitar vulnerabilidades como XSS (Cross-Site Scripting) y cómo podrías sanitizar la entrada de datos en formularios?
+
+
+10. Despliegue: ¿Cómo subirías el sitio web a un hosting y qué herramientas utilizarías para su mantenimiento y actualizaciones?
