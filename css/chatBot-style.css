@@ -1,9 +1,24 @@
-iframe {
+#chatBot {
     width: 400px;
     height: 500px;
     right: 0;
     bottom: 0;
     margin: 40px;
-    border: none;
+    border-radius: 20px;
     position: fixed;
+    visibility: hidden;
+}
+
+#chatBotButton {
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 40px;
+    width: 60px; height: 60px;
+    right: 0;
+    bottom: 0;
+    margin: 40px;
+    border-radius: 20px;
+    position: fixed;
+    visibility: visible;  
+    border-color: transparent;  
 }
