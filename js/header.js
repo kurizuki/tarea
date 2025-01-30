@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 <nav class="navbar" id="navbar">
                     <ul>
                         <li style="--item-index: 0"><a href="inicio.html">Inicio</a></li>
-                        <li style="--item-index: 1"><a href="../html/nosotros.html">Servicios</a></li>
-                        <li style="--item-index: 2"><a href="../html/contacto.html">Sobre Nosotros</a></li>
-                        <li style="--item-index: 3"><a href="../html/redes.html">Noticias</a></li>
-                        <li style="--item-index: 4"><a href="../html/redes.html">Contacto</a></li>
+                        <li style="--item-index: 1"><a href="../html/servicios.html">Servicios</a></li>
+                        <li style="--item-index: 2"><a href="../html/Nosotros.html">Nosotros</a></li>
+                        <li style="--item-index: 3"><a href="../html/Noticias.html">Noticias</a></li>
+                        <li style="--item-index: 4"><a href="../html/Contacto.html">Contacto</a></li>
                     </ul>
                 </nav>
             </div>
